@@ -1,4 +1,4 @@
-![ic_notification](https://github.com/kmoyer1711/Know-Your-OC-History/assets/128634178/eb94f900-ef1c-4cc3-a6d3-44c7e02d5927)
+![ic_notification - Copy](https://github.com/kmoyer1711/Know-Your-OC-History/assets/128634178/c303a066-0af4-4f55-b90a-e42c378eb8ca)
 
 # Know-Your-OC-History
 
