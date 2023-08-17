@@ -10,4 +10,4 @@ We hope you will use this app with the book A People’s Guide to Orange County 
 
 
 # Installation
-[To download: click on 3 dots menu and select download ](https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk)https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk
+[To download: click on 3 dots menu and select download ](https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk)
