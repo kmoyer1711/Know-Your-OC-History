@@ -3,7 +3,7 @@
 # Installation
 [To download: click on 3 dots menu and select download ](https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk)
 
-# Know-Your-OC-History
+# Know Your OC History
 
 Popular culture depicts Orange County as home to Disneyland, beaches, neo-Nazis, decadent housewives, and the modern-day Republican Party. Too few people recognize that Orange County also includes civil rights heroes, LGBTQ victories, struggles for public space, Cold War global migrations, Indigenous persistence, and labor movements. Our past and present are diverse and discordant and fascinating. 
 
