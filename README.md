@@ -1,3 +1,5 @@
+![ic_notification](https://github.com/kmoyer1711/Know-Your-OC-History/assets/128634178/eb94f900-ef1c-4cc3-a6d3-44c7e02d5927)
+
 # Know-Your-OC-History
 
 Popular culture depicts Orange County as home to Disneyland, beaches, neo-Nazis, decadent housewives, and the modern-day Republican Party. Too few people recognize that Orange County also includes civil rights heroes, LGBTQ victories, struggles for public space, Cold War global migrations, Indigenous persistence, and labor movements. Our past and present are diverse and discordant and fascinating. 
