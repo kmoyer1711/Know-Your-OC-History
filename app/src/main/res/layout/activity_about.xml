@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="13sp"
+            android:autoText="false"
+            android:fontFamily="sans-serif-black"
+            android:text="@string/know_your_oc_history"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/paragraphView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="13sp"
+            android:layout_marginRight="13sp"
+            android:autoText="false"
+            android:text="@string/popular_culture_depicts_orange_county_as_home_to_disneyland_beaches_neo_nazis_decadent_housewives_and_the_modern_day_republican_party_too_few_people_recognize_that_orange_county_also_includes_civil_rights_heroes_lgbtq_victories_struggles_for_public_space_cold_war_global_migrations_indigenous_persistence_and_labor_movements_our_past_and_present_are_diverse_and_discordant_and_fascinating_this_app_helps_you_know_your_oc_history"
+            android:textAlignment="viewStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="19sp" />
+
+        <TextView
+            android:id="@+id/paragraphTwoView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginRight="8sp"
+            android:autoText="false"
+            android:text="@string/based_on_the_book_a_people_s_guide_to_orange_county_by_elaine_lewinnek_gustavo_arellano_and_thuy_vo_dang_designed_by_karson_moyer_as_part_of_his_internship_for_valencia_high_school_and_building_on_a_google_map_created_by_ucla_students_davis_vo_samuel_stern_and_jorge_cruz_this_app_will_let_you_know_whenever_you_are_close_to_a_historic_place_of_power_struggle_in_orange_county"
+            android:textAlignment="viewStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/paragraphThreeView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8sp"
+            android:layout_marginTop="5sp"
+            android:layout_marginRight="8sp"
+            android:autoText="false"
+            android:text="@string/we_hope_you_will_use_this_app_with_the_book_a_people_s_guide_to_orange_county_to_explore_more_on_your_own_university_of_california_press_s_series_of_people_s_guides_share_stories_of_struggle_and_resistance_to_inspire_and_educate_activists_students_tourists_and_critical_thinkers"
+            android:textAlignment="viewStart"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

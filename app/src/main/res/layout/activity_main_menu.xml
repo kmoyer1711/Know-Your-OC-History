@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Overlay ImageView -->
+
+    <ImageView
+        android:id="@+id/topImageView"
+        android:layout_width="match_parent"
+        android:layout_height="780dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#54FFFFFF"
+        android:scaleType="fitCenter"
+        android:src="@drawable/cover_image_cropped_final_s"
+        android:contentDescription="@string/riot_police_defend_sleeping_beauty_s_castle_in_disneyland_on_august_6th_1970_preparing_for_an_unannounced_invasion_of_yippies_from_the_youth_international_party_the_santa_fe_railway_rolls_through_orange_groves_in_this_1941_postcard_from_the_curt_teich_company_suburban_irvine_designed_by_planners_in_the_late_1960s_and_early_1970s_with_parkways_smog_free_white_collar_industries_and_acres_of_beige_housing_where_a_homogeneous_appearance_can_make_it_difficult_to_perceive_actual_heterogeneity" />
+
+    <Button
+        android:id="@+id/locationsbutton"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginBottom="85dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/view_all_locations"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/aboutbutton"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="2dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/about_this_app"
+        android:textSize="34sp" />
+
+
+</RelativeLayout>
