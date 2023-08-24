@@ -3,6 +3,9 @@
 # Installation
 [To download: click on 3 dots menu and select download ](https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk)
 
+# Directions
+When prompted, allow the app to access location at all times. If you mess this up, you can go to your device Settings > Location > App Permissions. Find 'Know Your OC History' and select 'Allow all the time'. **note that these directions to go into the correct settings menu are from Android 10/ Samsung One UI Core Version 2.1 and that this process may differ from device to device and between software versions*
+
 # Know Your OC History
 
 Popular culture depicts Orange County as home to Disneyland, beaches, neo-Nazis, decadent housewives, and the modern-day Republican Party. Too few people recognize that Orange County also includes civil rights heroes, LGBTQ victories, struggles for public space, Cold War global migrations, Indigenous persistence, and labor movements. Our past and present are diverse and discordant and fascinating. 
