@@ -1,7 +1,7 @@
 ![ic_notification - Copy](https://github.com/kmoyer1711/Know-Your-OC-History/assets/128634178/c303a066-0af4-4f55-b90a-e42c378eb8ca)
 
 # Installation
-[To download: click on 3 dots menu and select download ](https://github.com/kmoyer1711/Know-Your-OC-History/blob/a0c6063964dcbb826febb82f1ecf4d27165ed4f1/Know%20Your%20OC%20History.apk)
+Latest release apk: [Download](https://github.com/kmoyer1711/Know-Your-OC-History/releases/download/8-26-2023/Know.Your.OC.History.v1.0.1.apk)
 
 # Directions
 When prompted, allow the app to access location at all times. If you mess this up, you can go to your device Settings > Location > App Permissions. Find 'Know Your OC History' and select 'Allow all the time'. **note that these directions to go into the correct settings menu are from Android 10/ Samsung One UI Core Version 2.1 and that this process may differ from device to device and between software versions*
