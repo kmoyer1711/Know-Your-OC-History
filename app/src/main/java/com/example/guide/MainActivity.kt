@@ -62,7 +62,7 @@ class MainActivity : AppCompatActivity() {
                     latLngCell.numericCellValue.toString()
 
                 val (longitude, latitude) = latLngValue.split(",").map { it.trim().toDouble() }
-                val radius = 1500f // Set default radius to 1500 meters (1.5 km)
+                val radius = 2000f // Set default radius to 2000 meters (2 km)
                 val description =
                     row.getCell(3).stringCellValue // Assuming description is stored as a string
 
